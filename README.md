@@ -1,7 +1,7 @@
 # Antipato v0.4
 Sistema hardware basado en Arduino para detectar Rubber Duckies, evitando su conexión física al PC y permitiendo conectar pendrives o teclados reales sin problemas
 
-##### Por ahí se dice que es indetectable XD
+##### Por ahí se dice que los Rubber Duckies son indetectable XD
 
 ### Anotaciones
 
