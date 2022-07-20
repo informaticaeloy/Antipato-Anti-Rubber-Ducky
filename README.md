@@ -9,4 +9,4 @@ Sistema hardware basado en Arduino para detectar Rubber Duckies, evitando su con
 
 * En la carpeta "Final", está el fichero antipato.ino con las últimas actualizaciones. Las librerías necesarias .h conviven en la misma carpeta. Otras librerías y documentos dependientes de estas librerías necesarias están en la carpeta "Otras librerías", por si acaso hiciesen falta.
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/informaticaeloy/antipato/blob/master/antipato.png)
